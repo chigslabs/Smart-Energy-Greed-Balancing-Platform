@@ -1,0 +1,13 @@
+# Smart Energy Management Platform – .dockerignore
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+!.env.example
+.git/
+.vscode/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
