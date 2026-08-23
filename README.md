@@ -306,10 +306,10 @@ The project demonstrates how AI agents can be coordinated to solve complex, doma
 
 ## 👨‍💻 Author
 
-**Jenish Patel**
+**Chirag Vishwkarama**
 
 GitHub:
-https://github.com/JenishPatel84
+https://github.com/chigslabs
 
 ## 📄 License
 
